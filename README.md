@@ -20,7 +20,7 @@ We'd like to give all candidates taking this test the same opportunity to solve 
 
 ## Exercise
 
-Using the past launches endpoint from the SpaceX API consolidate a list of all the missions that were launched in 2018 that carried a payload that belonged to NASA. Missions should appear in inverse chronological order with the exception that those that carried more payloads that should appear first.
+Using the past launches endpoint from the SpaceX API consolidate a list of all the missions that were launched in 2018 that carried a payload that belonged to NASA. Missions should appear in inverse chronological order with the exception that those that carried more payloads should appear first.
 
 Display the outcome of your solution by rendering the list to the screen as JSON while keeping an indentation of 2 spaces. To make the evaluation process simpler we only care to see the flight number, the mission name and the amount of payloads carried by each mission.
 
