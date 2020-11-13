@@ -1,10 +1,10 @@
 # JS & Rockets
 
-Welcome to our little coding exercise. During this test you will be given the opportunity to play with Javascript and rockets, in the same project. Some people might be horrified at the thought of this being even a possibility. But Javascript is what we do isn't it?
+Welcome to our little coding exercise. During this test you will be given the opportunity to play with Javascript and rockets in the same project. Some people might be horrified at the thought of this even being a possibility, But Javascript is what we do isn't it?
 
 <img align="center" src="https://i.imgur.com/ekyJNd9.jpg" width="600">
 
-Before you begin **please make sure you read this readme file entirely** and that you understand everything. If there's anything that you don't please don't hesitate to reach out to ask.
+Before you begin **please make sure you read this readme file entirely** and that you understand everything. If there's anything that you don't understand, please don't hesitate to reach out and ask.
 
 We'd like to give all candidates taking this test the same opportunity to solve the exercise in their own way, because of this we kindly ask you **not to fork or share this repo (or your solution) with anybody**
 
@@ -12,7 +12,7 @@ We'd like to give all candidates taking this test the same opportunity to solve 
 ## Instructions
 
 1. **Clone** this repo to a location of your choosing.
-2. Read all the 'Exercise' part before you start.
+2. Read all of the 'Exercise' part before you start.
 3. Write your solution to the exercise making sure the provided tests are green.
 4. Push your solution to a **private repo** in your **personal Github account**.
 5. When you are ready for us to take a look add users `paul-pro` and `nmvikings` as collaborators to your repo.
@@ -20,9 +20,9 @@ We'd like to give all candidates taking this test the same opportunity to solve 
 
 ## Exercise
 
-Using the past launches endpoint from the SpaceX API consolidate a list of all the missions that were launched in 2018 that carried a payload that belonged to NASA. Missions should appear in inverse chronological order with the exception that those that carried more payloads should appear first.
+Using the past launches endpoint from the SpaceX API consolidate a list of all the missions that were launched in 2018 that carried a payload belonging to NASA. Missions should appear in inverse chronological order, with the exception of those that carried more payloads should appear first.
 
-Display the outcome of your solution by rendering the list to the screen as JSON while keeping an indentation of 2 spaces. To make the evaluation process simpler we only care to see the flight number, the mission name and the amount of payloads carried by each mission.
+Display the outcome of your solution by rendering the list to the screen as JSON while keeping an indentation of 2 spaces. To make the evaluation process simpler we only care to see the flight number, the mission name, and the amount of payloads carried by each mission.
 
 
 ## Expected output
