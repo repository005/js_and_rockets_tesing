@@ -15,7 +15,7 @@ We'd like to give all candidates taking this test the same opportunity to solve 
 2. Read all the 'Exercise' part before you start.
 3. Write your solution to the exercise making sure the provided tests are green.
 4. Push your solution to a **private repo** in your **personal Github account**.
-5. When you are ready for us to take a look add users `paul-pro` and `mmakarin` as collaborators to your repo.
+5. When you are ready for us to take a look add users `paul-pro` and `nmvikings` as collaborators to your repo.
 
 
 ## Exercise
@@ -62,6 +62,7 @@ Your solution is expected to render the following:
 
 ## Clarifications:
 
+- We expect that your solution would be parameterizable, it has already been reflected in tests, just make sure that your code passes them
 - You can use **any** libraries you see fit.
 - You can request the data from `https://api.spacexdata.com/v3/launches/past`, but you are not allowed to use any of the filter parameters provided by the SpaceX API.
 - It doesn't matter to which NASA program each payload belongs to as long as NASA is the customer.
