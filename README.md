@@ -4,7 +4,7 @@ Welcome to our little coding exercise. During this test you will be given the op
 
 <img align="center" src="https://i.imgur.com/ekyJNd9.jpg" width="600">
 
-Before you begin please make sure you read the entire file and that you understand everything. If there's anything that you don't please don't hesitate to reach out to ask.
+Before you begin **please make sure you read this readme file entirely** and that you understand everything. If there's anything that you don't please don't hesitate to reach out to ask.
 
 We'd like to give all candidates taking this test the same opportunity to solve the exercise in their own way, because of this we kindly ask you **not to fork or share this repo (or your solution) with anybody**
 
@@ -63,7 +63,8 @@ Your solution is expected to render the following:
 ## Clarifications:
 
 - We expect that your solution would be parameterizable, it has already been reflected in tests, just make sure that your code passes them
-- You can use **any** libraries you see fit.
+- Make sure the specs are green
+- You can use any **utility** library you see fit (please don't use React, Angular or Vue).
 - You can request the data from `https://api.spacexdata.com/v3/launches/past`, but you are not allowed to use any of the filter parameters provided by the SpaceX API.
 - It doesn't matter to which NASA program each payload belongs to as long as NASA is the customer.
 - Payloads are carried in the second stage of a rocket and they can belong to multiple customers.
