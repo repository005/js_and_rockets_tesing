@@ -1,6 +1,6 @@
 # JS & Rockets
 
-Welcome to our little coding exercise. During this test you will be given the opportunity to play with Javascript and rockets in the same project. Some people might be horrified at the thought of this even being a possibility, But Javascript is what we do isn't it?
+Welcome to our little coding exercise. During this test you will be given the opportunity to play with Javascript and rockets in the same project. Some people might be horrified at the thought of this even being a possibility, but Javascript is what we do isn't it?
 
 <img align="center" src="https://i.imgur.com/ekyJNd9.jpg" width="600">
 
