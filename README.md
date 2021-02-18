@@ -3,7 +3,7 @@ JS & Rockets
 
 **Description:** Home task for Automate FE
 
-**Owner:** [Automate](https://mate.adjust.com/teams/automate)
+**Owner:** [Automate Frontend](https://mate.adjust.com/teams/automate-frontend)
 
 **Contacts:** automate-team@adjust.com, pavel.prokudin@adjust.com
 
