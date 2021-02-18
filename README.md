@@ -1,4 +1,14 @@
-# JS & Rockets
+JS & Rockets
+==========================
+
+**Description:** Home task for Automate FE
+
+**Owner:** [Automate](https://mate.adjust.com/teams/automate)
+
+**Contacts:** automate-team@adjust.com, pavel.prokudin@adjust.com
+
+---
+
 
 Welcome to our little coding exercise. During this test you will be given the opportunity to play with Javascript and rockets in the same project. Some people might be horrified at the thought of this even being a possibility, but Javascript is what we do isn't it?
 
