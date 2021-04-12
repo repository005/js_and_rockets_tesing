@@ -8,5 +8,5 @@ const filterParams = {
 // example of run, you could leave it or modify however you want
 fetch('https://api.spacexdata.com/v3/launches/past')
   .then(response => response.json())
-  .then(prepareData(filterParams))
+  .then(res => prepareData(filterParams)(res))
   .then(renderData)
